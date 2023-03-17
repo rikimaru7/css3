@@ -1,0 +1,24 @@
+body{background-color: rgb(30, 0, 78);}
+h1{box-shadow: inset;
+    color: chartreuse; 
+    font-size: 42px; 
+    text-align: center }
+
+ li {
+    font-size: 20px;
+    
+ }
+ .text-1 {color: brown;}
+ .text-2{color: cyan;}
+ .text-3{color: greenyellow;}
+.text-4{color: orangered;}
+.text-5{color: fuchsia;}
+.photo{width:500px ;
+height:200px ;
+margin-left: 650px;}
+p{font-size: 22px;}
+p{color: rgb(3, 88, 74);}
+b{color: rgb(3, 88, 74);}
+.Bukovka{
+color: rgb(178, 32, 93);
+font-size: 30px; }
